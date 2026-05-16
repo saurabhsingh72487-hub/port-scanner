@@ -3,7 +3,6 @@
 A simple Python port scanner project built for the freeCodeCamp Scientific Computing with Python certification.
 
 ## Features
-
 - Scan open ports on a hostname or IP address
 - Supports custom port ranges
 - Verbose mode with service names
