@@ -9,7 +9,6 @@ A simple Python port scanner project built for the freeCodeCamp Scientific Compu
 - Error handling for invalid hostnames and IP addresses
 
 ## Project Structure
-
 ```text
 port_scanner/
 ├── common_ports.py
